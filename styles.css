@@ -1,0 +1,50 @@
+body {
+    background-image: url("./assets/háttérkép.jpg");
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+nav { 
+    background-color: #333333;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+a {
+    color: #ff0099;
+    float: right;
+    margin: 10px;
+  }
+h3 {
+    color: #ff0099;
+    font-size: 30px;
+}
+h1 {
+  font-size: 50px;
+  font-family: 'EB Garamond';
+  margin-top: 100px;
+}
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+h4 {
+  font-size: 25px
+  ;
+}
+img {
+  margin-left: 20px;
+}
+div {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+hr {
+  border-top: dashed 6px;
+  width: 45px;
+}
+.introduction{
+  font-size: 20px;
+}
